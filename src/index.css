@@ -1,0 +1,40 @@
+.card-header,
+.card-title,
+.originalurhead,
+.originalurl,
+.delete{
+  margin-left: 500px;
+}
+.url-head{
+ margin-left: 550px;
+}
+.logout{
+  margin-left: 1200px;
+  margin-bottom: 50px;
+}
+.submiturl{
+  margin-left: 15px;
+  width: 75%;
+}
+.submit{
+  margin-left: 25px;
+}
+.logout,
+.delete,
+.submit{
+  transition-duration: 0.4s;
+}
+.logout:hover{
+  background-color: red;
+  color: white;
+}
+.delete:hover{
+  background-color: red;
+  color: white;
+}
+.submit:hover{
+  background-color: green;
+  color: white;
+}
+
+

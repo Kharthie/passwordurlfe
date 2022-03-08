@@ -1,0 +1,15 @@
+.fa-eye {
+  color: #000;
+}
+
+.p-viewer {
+  z-index: 9999;
+  position: absolute;
+  top: 25%;
+  right: 10px;
+  cursor: pointer;
+}
+
+.pwd {
+  position: relative;
+}
